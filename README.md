@@ -8,6 +8,6 @@ This program allows you to get creative at any moment while including a variety 
 
 Download the source code here: https://github.com/Sandman2-0/PaintBoard/blob/main/PaintBoard/paint_board.pde
 
-To try this program for yourself, you may install the Processing IDE or view it directly through your browser [here](https://draw.sandman2-0.com/).
+To try this program for yourself, you may install the [Processing](https://processing.org/) IDE or view it directly through your browser [here](https://draw.sandman2-0.com/).
 
 **NOTE:** When trying to paint too quickly, you'll find that the line tends to break apart. To fix this issue, increase the framerate within ``void setup()`` in the programs code.
